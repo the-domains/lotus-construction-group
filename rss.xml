@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lotus Construction Group]]></title>
         <description><![CDATA[Lotus Construction Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lotus-construction-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 21:03:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 21:04:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lotus-construction-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Lotus Construction Group]]></title>
+            <description><![CDATA[<article><h1>Welcome to Lotus Construction Group</h1><p>Home page</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e69da03-7ed3-462f-a375-b4a13f27cf6e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lotus-construction-group/welcome-to-lotus-construction-group/index.html</link>
+            <guid isPermaLink="false">134d4256-afa1-48ef-9bd5-a60d40d9e35b</guid>
+            <pubDate>Wed, 18 Nov 2015 21:03:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Our feasibility studies aim to:  1.         Objectively and rationally discover the strengths and weaknesses of an existing residence.  2.         Understand your needs and wishes regarding your project.  3.         Develop an accurate as-built floor plan of your home.  4.         Produce schematic concepts of your project with thoughtful, considerate design.  5.         Provide a Free Cost Analysis Estimate of your design.  Our feasibility studies precede technical development and advanced design development and project implementation.</p>]]></description>
-            <link>undefinedour-feasibility-studies-aim-to-1-objectively-and/index.html</link>
+            <link>https://thegrid.ai/lotus-construction-group/our-feasibility-studies-aim-to-1-objectively-and/index.html</link>
             <guid isPermaLink="false">9a35bbc9-b898-4bd3-936d-19280d3958a6</guid>
             <pubDate>Wed, 18 Nov 2015 21:03:41 GMT</pubDate>
         </item>
